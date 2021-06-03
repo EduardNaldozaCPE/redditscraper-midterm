@@ -1,0 +1,4 @@
+This program was created using the selenium package. 
+To be able to run the program from the .py files, please have selenium pip installed or have a virtual environment wiht selenium installed.
+
+The program is also bundled as a single .exe file using pyinstaller (installed using "pip install pyinstaller"). the command used is "pyinstaller --onefile redditscraper.py"  
